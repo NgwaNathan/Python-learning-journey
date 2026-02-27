@@ -1,0 +1,4 @@
+This is an example of file handling in Python.
+This line is added to the existing file.
+This line is added to the existing file.
+ My name is nathan and i am a level four hundred student at the university of buea.
